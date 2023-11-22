@@ -11,6 +11,11 @@
 		04960E1F2B0E400200A835E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E1E2B0E400200A835E2 /* ContentView.swift */; };
 		04960E212B0E400300A835E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04960E202B0E400300A835E2 /* Assets.xcassets */; };
 		04960E242B0E400300A835E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04960E232B0E400300A835E2 /* Preview Assets.xcassets */; };
+		04960E2B2B0E444A00A835E2 /* BirinciView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E2A2B0E444A00A835E2 /* BirinciView.swift */; };
+		04960E2D2B0E445500A835E2 /* IkinciView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E2C2B0E445500A835E2 /* IkinciView.swift */; };
+		04960E2F2B0E472600A835E2 /* YapilacakModeli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E2E2B0E472600A835E2 /* YapilacakModeli.swift */; };
+		04960E312B0E4D8700A835E2 /* YapilacakView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E302B0E4D8700A835E2 /* YapilacakView.swift */; };
+		04960E332B0E4E0000A835E2 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E322B0E4E0000A835E2 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		04960E1E2B0E400200A835E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04960E202B0E400300A835E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04960E232B0E400300A835E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04960E2A2B0E444A00A835E2 /* BirinciView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirinciView.swift; sourceTree = "<group>"; };
+		04960E2C2B0E445500A835E2 /* IkinciView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IkinciView.swift; sourceTree = "<group>"; };
+		04960E2E2B0E472600A835E2 /* YapilacakModeli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapilacakModeli.swift; sourceTree = "<group>"; };
+		04960E302B0E4D8700A835E2 /* YapilacakView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapilacakView.swift; sourceTree = "<group>"; };
+		04960E322B0E4E0000A835E2 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +63,11 @@
 			children = (
 				04960E1C2B0E400200A835E2 /* VerilerSwiftUIApp.swift */,
 				04960E1E2B0E400200A835E2 /* ContentView.swift */,
+				04960E2A2B0E444A00A835E2 /* BirinciView.swift */,
+				04960E2C2B0E445500A835E2 /* IkinciView.swift */,
+				04960E2E2B0E472600A835E2 /* YapilacakModeli.swift */,
+				04960E302B0E4D8700A835E2 /* YapilacakView.swift */,
+				04960E322B0E4E0000A835E2 /* DetailView.swift */,
 				04960E202B0E400300A835E2 /* Assets.xcassets */,
 				04960E222B0E400300A835E2 /* Preview Content */,
 			);
@@ -138,7 +153,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				04960E1F2B0E400200A835E2 /* ContentView.swift in Sources */,
+				04960E2D2B0E445500A835E2 /* IkinciView.swift in Sources */,
+				04960E312B0E4D8700A835E2 /* YapilacakView.swift in Sources */,
+				04960E332B0E4E0000A835E2 /* DetailView.swift in Sources */,
+				04960E2F2B0E472600A835E2 /* YapilacakModeli.swift in Sources */,
 				04960E1D2B0E400200A835E2 /* VerilerSwiftUIApp.swift in Sources */,
+				04960E2B2B0E444A00A835E2 /* BirinciView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
