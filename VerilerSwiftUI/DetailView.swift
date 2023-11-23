@@ -21,12 +21,8 @@ struct DetailView: View {
             Text(secilenYapilacak.tanim)
                 .font(.title)
                 .padding()
-            Button(action: {
-                yapildi.toggle()
-            },label: {
-                Text("Yapıldı / Yapılmadı")
-            })
             
+            YapildiButton(yapildiYapilmadi: $yapildi)
         }
     }
 }

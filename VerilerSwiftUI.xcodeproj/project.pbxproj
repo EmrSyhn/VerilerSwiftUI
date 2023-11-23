@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0416C9CB2B0F66A6009C8050 /* YapildiButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0416C9CA2B0F66A6009C8050 /* YapildiButton.swift */; };
 		04960E1D2B0E400200A835E2 /* VerilerSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E1C2B0E400200A835E2 /* VerilerSwiftUIApp.swift */; };
 		04960E1F2B0E400200A835E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04960E1E2B0E400200A835E2 /* ContentView.swift */; };
 		04960E212B0E400300A835E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04960E202B0E400300A835E2 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0416C9CA2B0F66A6009C8050 /* YapildiButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapildiButton.swift; sourceTree = "<group>"; };
 		04960E192B0E400200A835E2 /* VerilerSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VerilerSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04960E1C2B0E400200A835E2 /* VerilerSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerilerSwiftUIApp.swift; sourceTree = "<group>"; };
 		04960E1E2B0E400200A835E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				04960E2E2B0E472600A835E2 /* YapilacakModeli.swift */,
 				04960E302B0E4D8700A835E2 /* YapilacakView.swift */,
 				04960E322B0E4E0000A835E2 /* DetailView.swift */,
+				0416C9CA2B0F66A6009C8050 /* YapildiButton.swift */,
 				04960E202B0E400300A835E2 /* Assets.xcassets */,
 				04960E222B0E400300A835E2 /* Preview Content */,
 			);
@@ -158,6 +161,7 @@
 				04960E332B0E4E0000A835E2 /* DetailView.swift in Sources */,
 				04960E2F2B0E472600A835E2 /* YapilacakModeli.swift in Sources */,
 				04960E1D2B0E400200A835E2 /* VerilerSwiftUIApp.swift in Sources */,
+				0416C9CB2B0F66A6009C8050 /* YapildiButton.swift in Sources */,
 				04960E2B2B0E444A00A835E2 /* BirinciView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

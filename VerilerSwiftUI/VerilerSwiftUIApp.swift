@@ -11,7 +11,7 @@ import SwiftUI
 struct VerilerSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            YapilacakView()
         }
     }
 }
